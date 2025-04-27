@@ -1,0 +1,38 @@
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET files
+wwwroot/
+
+# Logs
+*.log
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*~
+*.bak
+
+# NPM and other dependency folders (if using Node for front-end)
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# .NET Core global tools
+.dotnet/
+
+# User-specific configuration files
+.vscode/
